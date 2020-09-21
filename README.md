@@ -1,7 +1,8 @@
 # Recommendations with IBM
 This project was part of the Data Science Nanodegree by Udacity from Recommendation Engines lesson covering Rank Based, Content Based, Collaborative Filtering, and Matrix Factorization methods.
 # Introduction
-In this project we'll analyze the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles they'll like.
+This project focuses on analyzing interactions between users and articles on the IBM Watson Studio platform. New article recommendations are made to users based on their interactions. Based on the data available, we can use various methods to make these recommendations. The methods used here are Rank Based, Collaborative Filtering, and Matrix Factorization.
+
 
 # Overview
 I. Exploratory Data Analysis
